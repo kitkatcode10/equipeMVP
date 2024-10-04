@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576882550002",
+    "project_id": "equipe-7a97d",
+    "storage_bucket": "equipe-7a97d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576882550002:android:ac6489bd18c9cd70f41c6b",
+        "android_client_info": {
+          "package_name": "com.equipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAryisMIfbdL8wHTUq0aPmPVkZFPVCYn-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
